@@ -1,1 +1,1 @@
-readme
+This is a text-mining exercise using the data from US regulatory space. The aim is to find out what was the focus of each of the US govt., which department and issue they dealt with, what rules were made and got implemented.
